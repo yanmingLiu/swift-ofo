@@ -1,6 +1,8 @@
 # swift-ofo
 模仿小黄车
 
+![image](https://github.com/yanmingLiu/swift-ofo/blob/master/ofo_2/QQ20190613-184941%402x.png)
+
 基本实现功能：
 1. 二维码扫描
 2. 底部UI弹起、隐藏
